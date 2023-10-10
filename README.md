@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arif
-- 👀 I’m interested in traveling
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in travelling
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me? ... through Linkedin.
 
